@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<body>
+    <ul>BEVÁRSÁRLÓ LISTA
+    <ul>HOZZÁVALÓK</ul>
+    <li>3 tojás</li>
+    <li>100g porcukor</li>
+    <li>85g önkelő liszt</li>
+    </ul>
+
+    <ul>MEGJEGYZÉS A HOZZÁVALÓKHOZ</ul>
+    <dl>porcukor</dl>
+    <dd>Finomra darált fehér cukor</dd>
+    <dl>Önkelő liszt</dl>
+    <dd>Előre elkészített liszt és kelesztő keverék (általában hozzáadott sóval és élesztővel)</dd>
+    <ul>Elkészítés</ul>
+    <h1>1.Melegítsük a sütőt 190</h1>
+    <h2>2.Zsírozzuk be egy 20 cm-es kerek tortaformát.</h2>
+    <h3>3.Egy közepes méretű tálban keverjük habosra a tojásokat és a porcukrot.</h3>
+    <h4>4.Keverjük bele a lisztet.</h4>
+    <h5>5.Öntsük bele a keveréket az előkészített tortaformába.</h5>
+    <h6>6.Süssük 20 percig az előmelegített sütőben,amíg a tészta teteje könnyű nyomásra vissza nem ugrik</h6>
+    <h7>Hűtsük le a tortaformában az edényszárítón</h7>
+</body>
+</html>
